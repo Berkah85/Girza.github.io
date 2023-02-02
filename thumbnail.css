@@ -16,7 +16,7 @@
         left:280px;  
         z-index: 1;
     }
-    .text{
+    .text1{
         font-family: sans-serif;
         display: block;
         position:absolute;
@@ -30,7 +30,7 @@
         text-shadow: 2px 2px #ff0000;
         word-break: break-word;
     }
-    .text1{
+    .text1a{
         font-family: sans-serif;
         display: block;
         position:absolute;
