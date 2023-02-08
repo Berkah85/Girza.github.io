@@ -1,11 +1,11 @@
-    .backimage{
+    .backimage1{
         display: block; 
         position:absolute; 
         left:0px; 
         top:0px; 
         z-index: 0;
     }
-    .frimage{
+    .frimage1{
         display: block; 
         position:ABSOLUTE; 
         width:300px; 
